@@ -1,5 +1,3 @@
-Code for Interview
-
 Airline Management System (Java Project)
 
 
